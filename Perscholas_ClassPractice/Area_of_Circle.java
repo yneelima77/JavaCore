@@ -8,9 +8,10 @@ public class Area_of_Circle {
 
         radius = 20;
         area = radius * radius * 3.14159;
+
         Area = radius * radius * Math.PI;
 
-        System.out.println("The area of the circle is: "+area);
+        System.out.println("The area of the circle is: "+area + " .");
         System.out.println(Area);
 
     }
